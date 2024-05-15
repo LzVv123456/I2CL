@@ -1,9 +1,11 @@
 # I2CL: Implicit In-context Learning
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-    <img src="figures/overview.png" alt="Overview" height="300px" style="margin-right: 10px;"/>
-    <img src="figures/speed_vs_accuracy_vs_cache.png" alt="Speed vs Accuracy vs Cache" height="300px"/>
-</div>
+<table>
+  <tr>
+    <td><img src="figures/overview.png" alt="Overview" height="300px"/></td>
+    <td><img src="figures/speed_vs_accuracy_vs_cache.png" alt="Speed vs Accuracy vs Cache" height="300px"/></td>
+  </tr>
+</table>
 
 ## What's New?
 ### 🌟 Introducing I2CL: a new paradigm to leverage demonstration examples:
