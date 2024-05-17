@@ -1,4 +1,4 @@
-# I2CL: Implicit In-context Learning
+# I2CL: Implicit In-context Learning for Large Language Models
 
 <table>
   <tr>
