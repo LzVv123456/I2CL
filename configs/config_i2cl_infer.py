@@ -6,7 +6,7 @@ import my_datasets as md
 config = {}
 
 config['gpus'] = ['0']
-config['exp_name'] = 'exps/i2cl_infer
+config['exp_name'] = 'exps/i2cl_infer'
 config['models'] = ['meta-llama/Llama-2-7b-hf'] 
 config['datasets'] = list(md.target_datasets.keys())
 config['run_baseline'] = True
