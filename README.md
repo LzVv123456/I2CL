@@ -106,5 +106,12 @@ I would also like to acknowledge the repositories that inspired and contributed 
 ## Citation
 If you found this work useful for your research, feel free to star ⭐ the repo or cite the following paper:
 ```
-placeholder
+@misc{li2024implicit,
+      title={Implicit In-context Learning}, 
+      author={Zhuowei Li and Zihao Xu and Ligong Han and Yunhe Gao and Song Wen and Di Liu and Hao Wang and Dimitris N. Metaxas},
+      year={2024},
+      eprint={2405.14660},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
 ```
