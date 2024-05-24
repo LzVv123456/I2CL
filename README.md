@@ -99,9 +99,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 I would also like to acknowledge the repositories that inspired and contributed to this work:
-- [icl_task_vectors](https://github.com/roeehendel/icl_task_vectors)
 - [label-words-are-anchors](https://github.com/lancopku/label-words-are-anchors)
-
+- [ICV](https://github.com/shengliu66/ICV)
+- [icl_task_vectors](https://github.com/roeehendel/icl_task_vectors)
 
 ## Citation
 If you found this work useful for your research, feel free to star ⭐ the repo or cite the following paper:
