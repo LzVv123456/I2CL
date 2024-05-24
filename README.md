@@ -1,4 +1,5 @@
-# I2CL: Implicit In-context Learning for Large Language Models
+# I2CL: Implicit In-context Learning
+Please refer to the [paper](https://arxiv.org/pdf/2405.14660) for more details.
 
 <table>
   <tr>
@@ -91,6 +92,8 @@ To use the code, follow these steps:
 5. **Configuration and Ablation Studies**
 
     For ablation studies and other configurations, please refer to `configs/config_i2cl.py` and the corresponding code files for more details.
+
+Please don't hesitate to drop an email at zhuowei.li@cs.rutgers.edu if you have question.
 
 ## License
 
